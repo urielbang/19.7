@@ -1,0 +1,36 @@
+body {
+  background-color: lightgray;
+}
+h1,
+h2 {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+img {
+  width: 100px;
+  height: 100px;
+  display: inline-table;
+}
+table,
+th,
+td,
+tr {
+  border: solid;
+  border-spacing: 0;
+}
+p {
+  font-style: italic;
+}
+
+li,
+.jordens {
+  display: inline;
+  width: 50px;
+
+  height: 50px;
+}
+table {
+  position: relative;
+  left: 900px;
+  bottom: 700px;
+}
